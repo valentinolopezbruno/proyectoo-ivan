@@ -24,7 +24,7 @@ export default function Inicio() {
                 <nav className="menu__desplegable">
                         <div className="navbar">
                                 <a className="enlace-activo" href="#">Inicio</a>
-                                <a href="#comprar">Comprar</a>
+                                <a href="#comprar">Comprarrrr</a>
                                 <a href="">Nosotros</a>
                                 <a href="">Contacto</a>
                         </div>
